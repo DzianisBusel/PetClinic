@@ -13,6 +13,7 @@ public class Program {
         clinic.addPetToClient(client,cat);
         clinic.addPetToClient(client,dog);
         clinic.addPetToClient(client,dog);
+        clinic.addPetToClient(client,parrot);
 
         clinic.addClient(client2);
         clinic.addClient(client2);
